@@ -1,4 +1,4 @@
-# Mini-Gabinet Kosmetyczny
+# SystemC - Obsłgua parkometru
 
 Aplikacja prezentuje podstawowe zastosowanie obiektowej bazy danych z wykorzystaniem "objectDB" - https://www.objectdb.com/
 Język: C++
