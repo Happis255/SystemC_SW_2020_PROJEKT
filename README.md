@@ -1,7 +1,6 @@
 # SystemC - Obsłgua parkometru
 
-Aplikacja prezentuje podstawowe zastosowanie obiektowej bazy danych z wykorzystaniem "objectDB" - https://www.objectdb.com/
-Język: C++
+Aplikacja prezentująca przykładowe działanie prostego menu parkometru przy wykorzystaniu SystemC.
 Środowisko: SystemC
 
 ### Struktura plików
